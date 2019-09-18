@@ -66,6 +66,8 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+- **Randomized Sketching Algorithms for Low-Memory Dynamic Optimization**  
+R. Muthukumar, D. Kouri and M.Udell  
+Submitted, 2019
+
+
