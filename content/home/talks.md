@@ -69,6 +69,6 @@ subtitle = ""
 +++
 
 
-- [Randomized Sketching for Approximate Gradients](https://www.youtube.com/watch?v=AzVnUlrZqNs)
+- [Randomized Sketching for Approximate Gradients, JuliaCon 2019](https://www.youtube.com/watch?v=AzVnUlrZqNs)
 - [Presolve Routines for Optimization Problems, JuliaCon 2016](https://www.youtube.com/watch?v=sdjyMbyS4mU&index=61&t=259s&list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S)
 
