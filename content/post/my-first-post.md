@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Schmidt et. al.'s  Adversarial Robust Generalization requires more data"
+title: "Adversarial Robust Generalization requires more data (Schmidt et. al)"
 subtitle: ""
 summary: ""
 authors: []
