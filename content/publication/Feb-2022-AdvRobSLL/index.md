@@ -47,7 +47,7 @@ featured: true
 url_pdf: 'https://arxiv.org/pdf/2202.13216'
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/1VpfosWvWXm_263T1eU_ZDxxzqwuRtPl8/view?usp=sharing'
 url_project: ''
 url_slides: 'https://drive.google.com/file/d/1-ZIiBauikPkE0TAgflBHGGd5hmAjh0iy/view?usp=sharing'
 url_source: ''
@@ -56,7 +56,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Hierarchy of Certifeied Robustness'
+  caption: 'Hierarchy of Certified Robustness'
   focal_point: 'below'
   preview_only: false
 
