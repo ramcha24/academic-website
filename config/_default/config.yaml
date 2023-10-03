@@ -56,6 +56,9 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  goldmark:
+    renderer:
+      unsafe: true
 related:
   threshold: 80
   includeNewer: true
@@ -68,4 +71,4 @@ related:
 security:
   _merge: deep
 sitemap:
-  _merge: deep
+  _merge: deep  

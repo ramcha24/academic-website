@@ -8,7 +8,7 @@
 appearance:
   theme_day: minimal
   theme_night: minimal
-  font: Classic
+  font: Times New Roman #Sans Serif Classic
   font_size: L
 
 # SEO
@@ -41,20 +41,20 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: '© {year}. This website template is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: false
-      allow_commercial: false
+#footer:
+#  copyright:
+#    notice: '© {year}. This website template is licensed under {license}'
+#    license:
+#      enable: false
+#      allow_derivatives: false
+#      share_alike: false
+#      allow_commercial: false
 
 # Localization
 
 locale:
   date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
+  #time_format: ':date_long'
   address_format: en-us
 
 # Site features
@@ -86,7 +86,7 @@ features:
     commento:
       url: ''
   search:
-    provider: 'wowchemy'
+    #provider: 'wowchemy'
     algolia:
       app_id: ''
       api_key: ''
@@ -95,7 +95,7 @@ features:
   map:
     provider: ''
     api_key: ''
-    zoom: 15
+    zoom: 10
 
 # Extensions
 

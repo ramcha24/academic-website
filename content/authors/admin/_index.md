@@ -18,8 +18,9 @@ bio: My research interests include learning theory, deep learning and optimizati
 
 # Interests to show in About widget
 interests:
-  - Adversarial Robustness
   - Learning Theory
+  - Adversarial Robustness
+  - High-dimensional Statistics
   - Optimization
 
 # Education to show in About widget
@@ -70,8 +71,13 @@ social:
 highlight_name: true
 ---
 
-I am a fourth year PhD Student in the Computer Science Department at Johns Hopkins University. I am fortunate to be advised by Professor Jeremias Sulam. My research interests revolve around theoretical questions in machine learning and robustness gaurantees. I am also interested in exploiting structure in data to develop efficient algorithms (eg. sparsity, low rank).
+I am a fifth year PhD Student in the Computer Science Department at Johns Hopkins University. I am fortunate to be advised by Dr. Jeremias Sulam. My work explores theoretical questions in evaluating machine learning models,
+- Generalization : performance on unseen data,
+- Robustness : performance on corrupted data. 
 
-Prior to starting my graduate studies, I was a research assistant at ORIE Department at Cornell where I was fortunate to be supervised by Professor Madeleine Udell. My work at Cornell involved developing low-memory algorithms for PDE-optimization (in collaboration with Dr. Drew Kouri of Sandia National Laboratories).
+Accounting for local sensitivity of models typically yield tighter theoretical guarantees. The characterization of local sensitivity often relies on underlying parsimony.
+
+
+Prior to starting my graduate studies, I was a research assistant at Cornell University supervised by Dr. Madeleine Udell. At Ithaca, I worked on developing low-memory algorithms for PDE-optimization based on randomized sketching.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
